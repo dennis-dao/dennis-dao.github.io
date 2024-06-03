@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dao Tuan Anh (Dennis)</title>
-    <link>http://localhost:51021/posts/</link>
+    <link>http://localhost:51428/dennis-dao.github.io/posts/</link>
     <description>Recent content in Posts on Dao Tuan Anh (Dennis)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2024 22:22:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:51021/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51428/dennis-dao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Sourcing</title>
-      <link>http://localhost:51021/posts/event-sourcing/</link>
+      <link>http://localhost:51428/dennis-dao.github.io/posts/event-sourcing/</link>
       <pubDate>Mon, 03 Jun 2024 22:22:54 +0800</pubDate>
-      <guid>http://localhost:51021/posts/event-sourcing/</guid>
+      <guid>http://localhost:51428/dennis-dao.github.io/posts/event-sourcing/</guid>
       <description>my-event-store-demo Architecture Diagram How to Run Build your project&#xA;./gradlew clean build --info Start Zookeeper&#xA;zookeeper-server-start /Users/dennis.dao/workspace/app/kafka_2.13-2.8.0/config/zookeeper.properties Start Kafka&#xA;kafka-server-start /Users/dennis.dao/workspace/app/kafka_2.13-2.8.0/config/server.properties Run app with spring profile property spring.profiles.active:&#xA;api-gateway-service = default&#xA;Access your Eureka Naming Server at http://localhost:8761/ User: admin Password: password naming-server = default&#xA;Option 1:&#xA;event-storage-service connects to kafka cluster topic to process the event. default or h2 rocksdb command-service = camel-kafka with remote or local kafka broker: local loopback host: spring.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:51021/posts/my-first-post/</link>
+      <link>http://localhost:51428/dennis-dao.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 03 Jun 2024 22:20:03 +0800</pubDate>
-      <guid>http://localhost:51021/posts/my-first-post/</guid>
+      <guid>http://localhost:51428/dennis-dao.github.io/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>
