@@ -1,0 +1,17 @@
+baseURL = 'https://dennis-dao.github.io/'
+languageCode = 'en-us'
+title = 'Dao Tuan Anh (Dennis)'
+theme = 'ananke'
+
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
+[[module.mounts]]
+source = 'resources'
+target = 'static/resources'
