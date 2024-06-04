@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.126.0
+      HUGO_VERSION: v0.126.3
     steps:
       - name: Install Hugo CLI
         run: |
@@ -48,9 +48,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Print base_url
-        run: |
-          echo "Base URL: ${{ steps.pages.outputs.base_url }}"
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo

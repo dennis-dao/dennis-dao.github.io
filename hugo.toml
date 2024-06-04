@@ -1,4 +1,4 @@
-baseURL = 'http://dennis-dao.github.io/'
+baseURL = 'https://dennis-dao.github.io/'
 languageCode = 'en-us'
 title = 'Dao Tuan Anh (Dennis)'
 theme = 'ananke'
