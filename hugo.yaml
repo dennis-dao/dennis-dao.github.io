@@ -127,7 +127,7 @@ params:
     title: "Dao Tuan Anh (Dennis)."
     subtitle: "I architect Trust"
     content: "In the fast-paced world of FinTech, I am a passionate Distinguished Software Architect and CTO with extensive experience managing large, high-performance teams. I built the entire Financial Services Department, comprising five domains: Payment, Wealth Management, Consumer Lending, Merchant Lending, and Shared Services. My journey has equipped me with deep insights into the multifaceted challenges and innovative strategies necessary for a CTO to thrive."
-    image: /images/profile.jpeg
+    image: /images/profile.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -151,7 +151,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.jpeg"
+    image: "/images/profile.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://dennis-dao.github.io) in San Francisco, CA. 
 
