@@ -153,11 +153,9 @@ params:
     title: "About Me"
     image: "/images/profile.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://dennis-dao.github.io) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a Distinguished Software Architect who is hard-working, creative, and consistently challenges himself to achieve the most optimal solutions for any problems encountered. With strong management skills, I have successfully managed numerous large-scale projects for in-house, SaaS, and PaaS environments at both corporate and enterprise levels.
     skills:
-      enable: true
+      enable: false
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
