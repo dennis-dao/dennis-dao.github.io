@@ -1,6 +1,10 @@
 ---
-title: Hugo SSR
+title: Personal Page with Hugo SSR
 ---
+
+# Introduction
+
+This is my personal page that can be published to github.io&nbsp;
 
 # Installation
 
