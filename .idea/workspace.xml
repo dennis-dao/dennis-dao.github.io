@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27eb0d26-2542-46da-8a5c-cc45a7f48e27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="27eb0d26-2542-46da-8a5c-cc45a7f48e27" name="Changes" comment="me.dennisdao.com">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.yaml" afterDir="false" />
     </list>
@@ -71,8 +70,17 @@
       <workItem from="1717515824326" duration="298000" />
       <workItem from="1717545644003" duration="435000" />
       <workItem from="1717546087601" duration="17000" />
-      <workItem from="1717548626632" duration="1198000" />
+      <workItem from="1717548626632" duration="1458000" />
     </task>
+    <task id="LOCAL-00001" summary="me.dennisdao.com">
+      <option name="closed" value="true" />
+      <created>1717582319260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717582319260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +113,7 @@
       <path value="$PROJECT_DIR$/themes/hugo-profile" />
       <path value="$PROJECT_DIR$/themes/ananke" />
     </ignored-roots>
+    <MESSAGE value="me.dennisdao.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="me.dennisdao.com" />
   </component>
 </project>
