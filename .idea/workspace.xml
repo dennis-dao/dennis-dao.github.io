@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27eb0d26-2542-46da-8a5c-cc45a7f48e27" name="Changes" comment="Added sample content">
-      <change afterPath="$PROJECT_DIR$/themes/hugo-profile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blogs/blogs/emoji-support.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blogs/emoji-support.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blogs/blogs/markdown-syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blogs/markdown-syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blogs/blogs/math.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blogs/math.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blogs/blogs/placeholder-text.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blogs/placeholder-text.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blogs/event-sourcing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blogs/event-sourcing.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,7 @@
       <recent name="$PROJECT_DIR$/themes/hugo-profile/static/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/blogs" />
       <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
@@ -78,7 +83,7 @@
       <workItem from="1717513524149" duration="293000" />
       <workItem from="1717515824326" duration="298000" />
       <workItem from="1717545644003" duration="435000" />
-      <workItem from="1717546087601" duration="4830000" />
+      <workItem from="1717546087601" duration="5201000" />
     </task>
     <task id="LOCAL-00001" summary="Added blogs post">
       <option name="closed" value="true" />

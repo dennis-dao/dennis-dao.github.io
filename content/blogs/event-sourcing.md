@@ -1,8 +1,16 @@
-+++
-title = 'Event Sourcing'
-date = 2024-06-03T22:22:54+08:00
-draft = true
-+++
+---
+title: "Event Sourcing Support"
+date: 2024-04-03T22:53:58+05:30
+draft: false
+github_link: "https://github.com/gurusabarish/hugo-profile"
+author: "Dennis Dao"
+tags:
+  - EDA
+  - Event Sourcing
+image: /images/architecture_diagram.png
+description: ""
+toc: 
+---
 
 # my-event-store-demo
 
