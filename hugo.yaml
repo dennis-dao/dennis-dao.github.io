@@ -140,9 +140,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://me.dennisdao.com
+          url: "https://me.dennisdao.com"
         - icon: fab fa-x-twitter
-          url: http://dennis-dao.github.io
+          url: "https://me.dennisdao.com"
       customIcons:
         - icon: /fav.png
           url: "https://me.dennisdao.com"
@@ -287,7 +287,7 @@ params:
     items:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
-        url: https://me.dennisdao.com
+        url: "https://me.dennisdao.com"
         image: /images/achievment.jpg
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
@@ -300,7 +300,7 @@ params:
         content: We are developed a product which can help others.
       - title: Google Summer of Code
         content: Contributed to a open source project.
-        url: https://me.dennisdao.com
+        url: "https://me.dennisdao.com"
 
   # projects
   projects:
