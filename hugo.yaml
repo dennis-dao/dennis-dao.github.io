@@ -1,4 +1,4 @@
-baseURL: "https://dennis-dta.github.io/"
+baseURL: "http://me.dennisdao.com/"
 languageCode: "en-us"
 title: "Dennis Profile"
 theme: hugo-profile
@@ -140,12 +140,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://dennis-dta.github.io
+          url: http://me.dennisdao.com
         - icon: fab fa-x-twitter
           url: https://dennis-dao.github.io
       customIcons:
         - icon: /fav.png
-          url: "https://dennis-dta.github.io"
+          url: "http://me.dennisdao.com"
 
   # About
   about:
@@ -170,22 +170,29 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "Principal Architect"
+        company: "Mission Plus"
         companyUrl: "https://dennis-dao.github.io"
-        date: "Jan 2022 - present"
+        date: "Mar 20223 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://dennis-dao.github.io"
-        content: "I am currently working as a software developer at [example org.](https://dennis-dao.github.io) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: |
+            FCTO/Principal Architect
+            - Partnered with client senior leadership to co-design the InsurTech SaaS model, enhancing strategic technical alignment.
+            - Developed and shaped the Enterprise Architecture to align seamlessly with the client's business objectives.
+            - Transformed product team operations by implementing a Domain-Driven Organizational Structure, boosting team autonomy and performance.
+            - Spearheaded the integration of cutting-edge technologies, including Generative AI, to advance compliance, security
+            measures, and quality assurance.
+            - Led initiatives to harness advanced technologies that significantly increased engineering productivity and innovation."
 
-      - job: "Software Developer"
-        company: "Amazon"
+      - job: "Distinguished Software Architect"
+        company: "Traveloka"
         companyUrl: "https://dennis-dao.github.io"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://dennis-dao.github.io"
         info:
           enable: true
@@ -196,8 +203,8 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
+      - job: "Senior Staff Engineer"
+        company: "Prudential"
         companyUrl: "https://dennis-dao.github.io"
         date: "Jan 2020 - Aug 2020"
         info:
