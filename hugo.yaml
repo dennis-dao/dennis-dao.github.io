@@ -218,10 +218,10 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Senior Solution Architect"
+        company: "Ant Financial"
         companyUrl: "https://me.dennisdao.com"
-        date: "June 2017 - Nov 2019"
+        date: "May 2016 - Nov 2017"
         featuredLink:
           enable: true
           url: "https://me.dennisdao.com"
@@ -231,8 +231,8 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
+      - job: "Tech Lead"
+        company: "Goldman Sachs"
         companyUrl: "https://me.dennisdao.com"
         date: "Feb 2016 - Mar 2017"
         content: "I am currently working as a software developer at [example org.](https://me.dennisdao.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."

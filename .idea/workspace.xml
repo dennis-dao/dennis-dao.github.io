@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27eb0d26-2542-46da-8a5c-cc45a7f48e27" name="Changes" comment="Refactored blogs folder">
+    <list default="true" id="27eb0d26-2542-46da-8a5c-cc45a7f48e27" name="Changes" comment="Updated main page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gallery.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <workItem from="1717513524149" duration="293000" />
       <workItem from="1717515824326" duration="298000" />
       <workItem from="1717545644003" duration="435000" />
-      <workItem from="1717546087601" duration="5951000" />
+      <workItem from="1717546087601" duration="7420000" />
     </task>
     <task id="LOCAL-00001" summary="Added blogs post">
       <option name="closed" value="true" />
@@ -114,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717600115722</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated main page">
+      <option name="closed" value="true" />
+      <created>1717600861860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717600861860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +157,7 @@
     <MESSAGE value="Added blogs post" />
     <MESSAGE value="Added sample content" />
     <MESSAGE value="Refactored blogs folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored blogs folder" />
+    <MESSAGE value="Updated main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated main page" />
   </component>
 </project>
